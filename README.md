@@ -79,10 +79,10 @@ If you're using macOS and Homebrew, follow these steps to set up PostgreSQL:
 - The server will automatically create the `personInfoEvents`, `transactions`, `users` tables upon launch
 - The `users` table will be auto populated with 4 users with the following username/password pairs
 
--- `alice`/ `alice`
--- `bob`/ `bob`
--- `carol` / `carol`
--- `dave`/ `dave`
+- `alice`/ `alice`
+- `bob`/ `bob`
+- `carol` / `carol`
+- `dave`/ `dave`
 
 ## Running Tests
 
